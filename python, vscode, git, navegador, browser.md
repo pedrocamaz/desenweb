@@ -1,10 +1,3 @@
-Nome: Pedro Henrique Gomes Camaz
-2 periodo
-Ciencia de dados
-
-
-
-
 python, vscode, git, navegador, browser
 
 
